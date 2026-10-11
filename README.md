@@ -8,7 +8,7 @@ Ten-pin bowling for Linux. Regulation scoring, hook, gutters, and a pinsetter. S
 
 ## Download
 
-Get `shadowfetch-bowling-1.0.0-linux-x86_64.tar.gz` from the [latest release](https://github.com/Shadowfetchapps/shadowfetch-bowling/releases/latest) (x86_64 Linux), then:
+Get `shadowfetch-bowling-1.0.0-linux-x86_64.tar.gz` from the [latest release](https://github.com/ShadowfetchStudio/shadowfetch-bowling/releases/latest) (x86_64 Linux), then:
 
 ```bash
 sha256sum -c shadowfetch-bowling-1.0.0-linux-x86_64.tar.gz.sha256
