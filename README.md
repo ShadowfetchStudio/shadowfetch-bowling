@@ -52,3 +52,9 @@ If `rsvg-convert` is missing: `sudo apt install librsvg2-bin desktop-file-utils`
 Inter fonts — SIL OFL 1.1. Lane, pins, icon, and audio are original.
 
 No telemetry. Fictional scores only.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+Like this project? You can [buy me a coffee](https://www.buymeacoffee.com/shadowfetcu).
